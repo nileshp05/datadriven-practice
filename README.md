@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-10-01 |
 | [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-09-29 |
 | [Name Recognition](./practice/sql/name-recognition) | SQL | Medium | 2026-09-25 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-09-24 |
