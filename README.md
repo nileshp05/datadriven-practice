@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-10-03 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-03 |
 | [The Address Surgeon](./practice/python/the-address-surgeon) | Python | Easy | 2026-10-03 |
 | [The One-Way Street](./practice/python/the-one-way-street) | Python | Easy | 2026-10-03 |
