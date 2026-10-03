@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The One-Way Street](./practice/python/the-one-way-street) | Python | Easy | 2026-10-03 |
 | [The Word Flipper](./practice/python/the-word-flipper) | Python | Easy | 2026-10-02 |
 | [Where the Money Went](./practice/sql/where-the-money-went) | SQL | Medium | 2026-10-01 |
 | [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-10-01 |
