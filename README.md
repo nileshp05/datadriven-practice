@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-10-07 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-06 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-10-03 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-03 |
