@@ -2,4 +2,4 @@ select year(bill_date) as fiscal_year, sum(amount) as total_spend, count(distinc
 as service_count
 from cloud_costs
 group by year(bill_date) 
-order by bill_date asc
+order by fiscal_year asc
