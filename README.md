@@ -1,6 +1,6 @@
 # minted_seal_9453's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Weight of a Verdict](./practice/sql/the-weight-of-a-verdict) | SQL | Easy | 2026-10-08 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-08 |
 | [Quality Gate](./practice/python/quality-gate) | Python | Easy | 2026-10-08 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-10-07 |
