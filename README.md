@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-08 |
 | [Quality Gate](./practice/python/quality-gate) | Python | Easy | 2026-10-08 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-10-07 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-10-06 |
