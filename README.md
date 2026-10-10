@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-10 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-10 |
 | [User Age Ranking](./practice/sql/user-age-ranking) | SQL | Easy | 2026-10-10 |
 | [Running Tab](./practice/sql/running-tab) | SQL | Medium | 2026-10-10 |
