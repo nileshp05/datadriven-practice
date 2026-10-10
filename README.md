@@ -11,7 +11,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 | [The Ones That Woke Us](./practice/sql/the-ones-that-woke-us) | SQL | Easy | 2026-10-10 |
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-10-10 |
 | [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-10-09 |
-| [Deploy Velocity](./practice/sql/deploy-velocity) | SQL | Hard | 2026-10-09 |
+| [Deploy Velocity](./practice/sql/deploy-velocity) | SQL | Medium | 2026-10-09 |
 | [The Weight of a Verdict](./practice/sql/the-weight-of-a-verdict) | SQL | Easy | 2026-10-08 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-10-08 |
 | [Quality Gate](./practice/python/quality-gate) | Python | Easy | 2026-10-08 |
