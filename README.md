@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones That Woke Us](./practice/sql/the-ones-that-woke-us) | SQL | Easy | 2026-10-10 |
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-10-10 |
 | [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-10-09 |
 | [Deploy Velocity](./practice/sql/deploy-velocity) | SQL | Hard | 2026-10-09 |
