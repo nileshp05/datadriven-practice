@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-10-11 |
 | [Content Page Spreads](./practice/sql/content-page-spreads) | SQL | Hard | 2026-10-11 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-10-11 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-10 |
