@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/minted_seal_9453), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ship It or Skip It](./practice/sql/ship-it-or-skip-it) | SQL | Easy | 2026-10-12 |
 | [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-10-12 |
 | [Node Utilization](./practice/sql/node-utilization) | SQL | Hard | 2026-10-11 |
 | [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-10-11 |
